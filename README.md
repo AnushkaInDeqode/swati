@@ -41,6 +41,39 @@ In this project we have used following dependencies :-
 
 ## Directory Structure
 
+```
+.
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── PayrollProcessing
+│   │           ├── controller
+│   │           ├── entity
+│   │           ├── Exception
+│   │           ├── PayrollProcessing
+│   │           ├── Repo
+│   │           ├── service
+│   │           └── utility
+│   └── test
+│       └── java
+│           └── PayrollProcessing
+└── target
+    ├── classes
+    │   ├── META-INF
+    │   │   └── maven
+    │   │       └── Payroll-Processing-System
+    │   │           └── Payroll-Processing-System
+    │   └── PayrollProcessing
+    │       ├── controller
+    │       ├── entity
+    │       ├── Exception
+    │       ├── PayrollProcessing
+    │       ├── Repo
+    │       ├── service
+    │       └── utility
+    └── test-classes
+        └── PayrollProcessing
+```
 
 ---
 
