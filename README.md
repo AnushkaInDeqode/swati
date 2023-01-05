@@ -17,7 +17,7 @@
 ---
 
 ## Install
-- [x]  [Java 8](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [x]  [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [x] [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
 - [x] [STS ](https://spring.io/tools)
 - [x] [Eclipse ](https://www.eclipse.org/downloads/)
